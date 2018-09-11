@@ -1,0 +1,4 @@
+*UnicodeNormalization-Core
+canonicalComposedNormalForm
+
+	^ self canonicalDecomposedNormalForm canonicallyComposed

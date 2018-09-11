@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #directory : 'packages',
+      #baseline : 'UnicodeNormalization',
+      #platforms : [ #pharo ]
+    }
+  ]
+}

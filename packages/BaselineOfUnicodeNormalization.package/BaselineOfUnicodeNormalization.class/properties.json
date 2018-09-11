@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfUnicodeNormalization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfUnicodeNormalization",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

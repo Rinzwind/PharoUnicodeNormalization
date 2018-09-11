@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"canonicalCompositionOf:" : "KrisGybels 7/15/2015 11:33",
+		"canonicalCompositionOf:with:ifNotComposable:" : "KrisGybels 7/15/2015 15:10",
+		"canonicalDecompositionOf:ifNotDecomposable:" : "KrisGybels 7/15/2015 11:17",
+		"combiningClassOf:" : "KrisGybels 7/14/2015 14:29",
+		"compatibilityDecompositionOf:ifNotDecomposable:" : "KrisGybels 7/15/2015 10:48",
+		"downloadUCDFiles" : "KrisGybels 7/16/2015 15:14",
+		"findNonBlockedStarterIn:forIndex:" : "KrisGybels 7/15/2015 13:34",
+		"hangulCanonicalCompositionOf:with:ifNone:" : "KrisGybels 7/15/2015 11:21",
+		"hangulCanonicalDecompositionOf:ifNone:" : "KrisGybels 7/15/2015 11:21",
+		"hangulSyllableTypeOf:" : "KrisGybels 7/15/2015 11:21",
+		"initializeCanonicalCompositions" : "KrisGybels 7/15/2015 15:08",
+		"initializeNormalization" : "KrisGybels 7/15/2015 13:47",
+		"initializeRecursiveDecompositions" : "KrisGybels 7/15/2015 13:42",
+		"newStreamOnUCDFile:" : "KrisGybels 9/11/2018 14:34",
+		"parseCompositionExclusionsFrom:" : "KrisGybels 7/15/2015 13:52",
+		"parseHangulSyllableTypeFrom:" : "KrisGybels 7/15/2015 13:52",
+		"parseUnicodeDataCombiningClassesAndDecompositionsFrom:" : "KrisGybels 7/15/2015 13:53",
+		"recursiveCanonicalDecompositionOf:ifNotDecomposable:" : "KrisGybels 7/15/2015 11:54",
+		"recursiveCompatibilityDecompositionOf:ifNotDecomposable:" : "KrisGybels 7/15/2015 11:55",
+		"withStreamOnUCDFile:do:" : "KrisGybels 7/15/2015 13:44",
+		"writeRecursiveCanonicalDecompositionOf:on:" : "KrisGybels 7/15/2015 11:48",
+		"writeRecursiveCompatibilityDecompositionOf:on:" : "KrisGybels 7/15/2015 11:48" },
+	"instance" : {
+		 } }
